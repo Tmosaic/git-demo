@@ -9,6 +9,6 @@ the first day of learning Git!08
 the first day of learning Git!09
 the first day of learning Git!10
 the first day of learning Git!11 master change!
-the first day of learning Git!12
+the first day of learning Git!12 hot-fix change
 lalalalalalalala222222
 hot-fix444444444
